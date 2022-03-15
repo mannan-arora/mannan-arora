@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mannan-arora/mannan-arora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h2>Hi there! I'm Mannan. 👋</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🎓 &nbsp; I’m currently a 2nd year CS student at the Unversity of Waterloo.
+- 💼 &nbsp; I've previously worked as a Web Developer at Civiconnect.
+- 🌱 &nbsp; I’m currently learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ⚡ &nbsp; I'm currently seeking SWE internships for Fall 2022.
+
+
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mannan-arora&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannan-arora&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.mannan.ca/"><img alt="Website" src="https://img.shields.io/badge/Website-mannan.ca-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/mannan-arora/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mannan%20Arora-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:mannan.arora@uwaterloo.ca"><img alt="Email" src="https://img.shields.io/badge/Email-mannan.arora@uwaterloo.ca-blue?style=flat-square&logo=gmail"></a>
+</p>
