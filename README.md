@@ -25,16 +25,7 @@ Here are some ideas to get you started:
 - ⚡ &nbsp; I'm currently seeking SWE internships for Fall 2022.
 
 
-<br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mannan-arora&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannan-arora&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.mannan.ca/"><img alt="Website" src="https://img.shields.io/badge/Website-mannan.ca-blue?style=flat-square&logo=google-chrome"></a>
