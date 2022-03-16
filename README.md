@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- - 💼 &nbsp; I've previously worked as a Web Developer at Civiconnect. -->
 
 <h2>Hi there! I'm Mannan. 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; I’m currently a 2nd year CS student at the Unversity of Waterloo.
-- 💼 &nbsp; I've previously worked as a Web Developer at Civiconnect.
+
 - 🌱 &nbsp; I’m currently learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ⚡ &nbsp; I'm currently seeking SWE internships for Fall 2022.
 
