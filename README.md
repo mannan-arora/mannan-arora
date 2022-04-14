@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; I’m currently a 2nd year CS student at the Unversity of Waterloo.
+- 🎓 &nbsp; 2nd year CS student at the Unversity of Waterloo.
 
 - 🌱 &nbsp; I’m currently learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ⚡ &nbsp; I'm currently seeking SWE internships for Fall 2022.
+
 
 
 
