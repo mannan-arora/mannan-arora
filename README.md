@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <i>Connect with me below!</i>
 </p>
  <p align="center">
-<a href="https://www.linkedin.com/in/mannan-arora/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/7d89d7afb225eef3667b0b6db06d7fe70307a787/src/assets/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/mannan-arora/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/4351cc5dc5fbdc714124b53cde3844f02bb248e4/src/assets/linkedin.svg"></a>
  &nbsp;&nbsp;
-<a href="https://mannan.ca/"><img alt="Website" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/ef757ea25c99693c39cafdab59092369da8ddae5/src/assets/link.svg"></a>
+<a href="https://mannan.ca/"><img alt="Website" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/dad3a0d0b97217b7d0bdd24b4d0eb9b2e2c708d7/src/assets/link.svg"></a>
 &nbsp;&nbsp;
-<a href="mailto:contact@mannan.ca"><img alt="Email" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/7d89d7afb225eef3667b0b6db06d7fe70307a787/src/assets/mail.svg"></a>
+<a href="mailto:contact@mannan.ca"><img alt="Email" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/e3e62057b52518887d2474fa6587297ccd176d6f/src/assets/mail.svg"></a>
 </p>
