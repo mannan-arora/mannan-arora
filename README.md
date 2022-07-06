@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://mannan.ca/"><img alt="Website" src="https://img.shields.io/badge/Website-mannan.ca-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mannan-arora/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mannan%20Arora-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:contact@mannan.ca"><img alt="Email" src="https://img.shields.io/badge/Email-contact@mannan.ca-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/mannan-arora/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/7d89d7afb225eef3667b0b6db06d7fe70307a787/src/assets/linkedin.svg"></a>
+<a href="mailto:contact@mannan.ca"><img alt="Email" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/7d89d7afb225eef3667b0b6db06d7fe70307a787/src/assets/mail.svg"></a>
+<a href="https://mannan.ca/"><img alt="Website" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/7d89d7afb225eef3667b0b6db06d7fe70307a787/src/assets/link.svg"></a>
 </p>
