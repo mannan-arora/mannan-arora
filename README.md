@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2>Hi there! I'm Mannan. 👋</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>About Me </h3>
 
 - 🎓 &nbsp; 2nd year CS student at the Unversity of Waterloo.
 
@@ -28,7 +28,12 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+<i>Connect with me below!</i>
+</p>
+ <p align="center">
 <a href="https://www.linkedin.com/in/mannan-arora/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/7d89d7afb225eef3667b0b6db06d7fe70307a787/src/assets/linkedin.svg"></a>
+ &nbsp;&nbsp;
+<a href="https://mannan.ca/"><img alt="Website" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/ef757ea25c99693c39cafdab59092369da8ddae5/src/assets/link.svg"></a>
+&nbsp;&nbsp;
 <a href="mailto:contact@mannan.ca"><img alt="Email" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/7d89d7afb225eef3667b0b6db06d7fe70307a787/src/assets/mail.svg"></a>
-<a href="https://mannan.ca/"><img alt="Website" src="https://raw.githubusercontent.com/mannan-arora/mannan-arora/7d89d7afb225eef3667b0b6db06d7fe70307a787/src/assets/link.svg"></a>
 </p>
